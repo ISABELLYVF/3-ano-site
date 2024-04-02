@@ -62,6 +62,10 @@ body{
     
 }
 
+.abas-texto{
+    background-color: var(--texto-fundo);
+}
+
 @media screen and(min-width: 768px){
     .botoes{
         display: flex;
@@ -70,6 +74,6 @@ body{
         border-radius: 40px 0 0 0;
      }
      .botao:first-child{
-        border-radius: 0 40;
+        border-radius: 0 0 40;
      }
 }
