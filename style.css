@@ -1,11 +1,11 @@
 
 :root{
     --cor-de-fundo: #1E1E1E;
-    --verde: #000d82;
+    --verde: #0012af;
     --branco: #FFFFFF;
-    --botao-ativo: #31b220;
-    --botao-inativo:      #91d148;
-    --texto-fundo:      #48d148;
+    --botao-ativo: #00529e;
+    --botao-inativo:      #2c60ad;
+    --texto-fundo:      #00529e;
   }
   
   body {
@@ -98,7 +98,7 @@
   
   .contador-digito-texto{
     font-size: 20px;
-    color: #4B0082;
+    color: #030fb6;
     margin: 0;
   }
    @media screen and (min-width: 768px) {
